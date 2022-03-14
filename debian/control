@@ -12,4 +12,4 @@ Package: wireshark-ueransim-rls
 Architecture: any
 Depends: wireshark-common (>= 3.0.0),
          ${shlibs:Depends}, ${misc:Depends}
-Description: Wireshark dissector for Radio Link Sumilation Protocol from UERANSIM
+Description: Wireshark dissector for Radio Link Simulation Protocol from UERANSIM
