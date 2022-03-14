@@ -1,0 +1,2 @@
+rls.lua usr/lib/${DEB_HOST_MULTIARCH}/wireshark/plugins/rls
+protocol usr/lib/${DEB_HOST_MULTIARCH}/wireshark/plugins/rls

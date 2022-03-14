@@ -1,0 +1,15 @@
+Source: wireshark-ueransim-rls
+Section: unknown
+Priority: optional
+Maintainer: Louis Royer <louis.royer@irit.fr>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.5.1
+Homepage: https://github.com/louisroyer/rls-wireshark-dissector
+Vcs-Git: https://github.com/louisroyer/deb-rls-wireshark-dissector
+Rules-Requires-Root: no
+
+Package: wireshark-ueransim-rls
+Architecture: any
+Depends: wireshark-common (>= 3.0.0),
+         ${shlibs:Depends}, ${misc:Depends}
+Description: Wireshark dissector for Radio Link Sumilation Protocol from UERANSIM
