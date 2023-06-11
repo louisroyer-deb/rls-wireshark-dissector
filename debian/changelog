@@ -1,3 +1,9 @@
+wireshark-ueransim-rls (1.1.1-2) bookworm; urgency=medium
+
+  * Update to bookworm
+
+ -- Louis Royer <louis.royer@irit.fr>  Sun, 11 Jun 2023 17:27:45 +0200
+
 wireshark-ueransim-rls (1.1.1-1) bullseye; urgency=medium
 
   * UNOFFICIAL Packaging - Initial release
