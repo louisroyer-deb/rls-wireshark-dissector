@@ -1,5 +1,5 @@
 Source: wireshark-ueransim-rls
-Section: unknown
+Section: net
 Priority: optional
 Maintainer: Louis Royer <louis.royer@irit.fr>
 Build-Depends: debhelper-compat (= 13)
